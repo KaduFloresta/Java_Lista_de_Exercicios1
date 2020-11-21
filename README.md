@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-cefloresta1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cefloresta1@gmail.com)](mailto:cefloresta1@gmail.com)
 
 <hr>
-<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2020</h5> 
+<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2019</h5> 
 
 ---
 
@@ -63,3 +63,5 @@ Acima de 4.664,68        | 27,5%
 ## DESAFIO
 
 * **13. Crie um programa que teste se um número é primo**
+
+---
